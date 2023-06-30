@@ -1,0 +1,11 @@
+
+
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Passkey_Demo"
+include ':app'
